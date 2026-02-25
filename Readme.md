@@ -26,6 +26,26 @@ This repository is part of my learning journey where I practice modern web techn
 
 ---
 
+## 🌐 CDN Libraries I Use
+
+In some projects, I use CDN links for fast setup and lightweight development.
+
+**Examples:**
+
+**Font Awesome**
+
+```html
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+```
+
+**Bootstrap**
+
+```html
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+```
+
+---
+
 ## 📂 What You'll Find Here
 
 In this repository, you may see:
@@ -59,3 +79,4 @@ Feel free to check my projects and follow my progress!
 ---
 
 ⭐ If you like my work, consider giving the repo a star!
+
